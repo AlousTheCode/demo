@@ -3,6 +3,6 @@ package com.example.demo;
 public class test {
 
     public static void main(String[] args) {
-        System.out.println("Merhaba, Java çalışıyor!");
+        System.out.println("Hello, Java Is Working!");
     }
 }
